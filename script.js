@@ -1,9 +1,9 @@
-const contactForm = document.getElementById("contact-form");
+const contactForm = document.getElementById("fs-frm");
 
 contactForm.addEventListener("submit", function (event) {
-    const name = document.getElementById("name");
-    const email = document.getElementById("email");
-    const message = document.getElementById("message");
+    const name = document.getElementById("full-name");
+    const email = document.getElementById("email-address");
+    const message = document.getElementById("email-subject");
 
     if (!isValidEmail(email.value)) {
         alert("Please enter a valid email address.");
