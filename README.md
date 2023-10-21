@@ -13,11 +13,10 @@ The Personal Portfolio Website is a web application designed to showcase the ski
 - HTML
 - CSS
 - JavaScript (for the contact form validation)
-- php
-
+- API [Formspree]<https://formspree.io/>
 
 ## Screenshots or Demo:
-- Include screenshots or links to your live website.
+- Screenshots to the live website: [https://drive.google.com/drive/folders/1cenQ791LcvNn95PzmK_W7DESGzkcoMYx?usp=share_link]
 
 ## Getting Started:
 1. Clone the repository to your local machine.
@@ -37,5 +36,5 @@ For questions, feedback, or collaboration opportunities, please feel free to rea
 - Name: [Ndung'u Kinyanjui]
 - Email: [kinyanjuindungu1324@gmail.com]
 - GitHub: [https://github.com/MaVeN-13TTN]
-- LinkedIn: [Your LinkedIn Profile]
+
 
